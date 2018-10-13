@@ -1,1 +1,1 @@
-# HavelHakimi
+# Havel Hakimi algorithm c++
